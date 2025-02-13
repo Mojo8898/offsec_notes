@@ -10,4 +10,4 @@ To use/view, clone this repository and open it as a vault in Obsidian.
 git clone https://github.com/Mojo8898/offsec_notes.git
 ```
 
-**Additional Note:** ~80% of the content here has been redacted/removed altogether for obvious reasons, but I have preserved most tool usage and basic techniques to provide a starting point.
+**Additional Note:** ~80% of the content here has been redacted/removed altogether for obvious reasons. That being said, I have preserved most tool usage and some basic techniques/methodologies to provide a solid starting point.
